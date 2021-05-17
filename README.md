@@ -1,5 +1,5 @@
 Live link:
- https://ludeng303.github.io/infinite-scroll/
+ https://xiaolu-ignite.github.io/infinite-scroll/
 
 # infinite-scroll
 Udemy tutorial by Brad Traversy. JavaScript fetch, async/await, css loader
